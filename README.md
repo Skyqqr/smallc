@@ -1,0 +1,2 @@
+# smallc
+learning makefile
